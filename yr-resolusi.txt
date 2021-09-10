@@ -1,0 +1,4 @@
+yr resolusi
+1. javascript
+2. python
+3. vba testing
