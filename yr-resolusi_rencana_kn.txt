@@ -2,9 +2,11 @@ Rencana test
 
 -js
 #bikin apa yah
+ #what the
+  #apa sih
 -php frame
+  #laravel
 -interview
 -testing
 -apa ajaboleh
 -test dulu lah
--fundamental strukdat
