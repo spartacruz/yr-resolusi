@@ -1,6 +1,8 @@
 Rencana test
 
 -js
+#vue
+#javascribb
 #bikin apa yah
 -php frame
 -interview
@@ -8,3 +10,4 @@ Rencana test
 -apa ajaboleh
 -test dulu lah
 -fundamental strukdat
+-python
