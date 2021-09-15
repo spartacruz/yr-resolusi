@@ -7,3 +7,4 @@ Rencana test
 -testing
 -apa ajaboleh
 -test dulu lah
+-fundamental strukdat
