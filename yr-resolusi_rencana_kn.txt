@@ -1,0 +1,6 @@
+Rencana test
+
+-js
+-php frame
+-interview
+-testing
