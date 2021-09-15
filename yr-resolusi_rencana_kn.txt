@@ -1,0 +1,9 @@
+Rencana test
+
+-js
+#bikin apa yah
+-php frame
+-interview
+-testing
+-apa ajaboleh
+-test dulu lah
