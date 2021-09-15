@@ -6,6 +6,7 @@ Rencana test
 #bikin apa yah
 #react
 -php frame
+  #laravel
 -interview
 -testing
 -apa ajaboleh
