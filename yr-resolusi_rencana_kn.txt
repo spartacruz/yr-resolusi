@@ -1,10 +1,14 @@
 Rencana test
 
 -js
+#vue
+#javascribb
 #bikin apa yah
+#react
 -php frame
 -interview
 -testing
 -apa ajaboleh
 -test dulu lah
 -fundamental strukdat
+-python
